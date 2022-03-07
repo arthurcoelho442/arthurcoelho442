@@ -1,5 +1,4 @@
 ## Arthur Coelho Estevão ☕
-##
 ##### 💻 Engenharia de Computação - UFES 💻
 - 🔬 Trabalhando com projeto de IC.
 - 🌱 Estudando Neural network em machine learning.
