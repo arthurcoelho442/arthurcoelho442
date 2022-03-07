@@ -2,12 +2,11 @@
 ##### 💻 Engenharia de Computação - UFES 💻
 - 🔬 Trabalhando com projeto de IC.
 - 🌱 Estudando Neural network em machine learning.
---;
 
 <div align="center">
   <a href="https://github.com/arthurcoelho442">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=arthurcoelho442&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcoelho442&langs_count=7&theme=darcula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arthurcoelho442&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcoelho442&langs_count=7&theme=darcula"/>
 </div>
   
 <div style="display: inline_block"><br>
