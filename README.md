@@ -1,4 +1,4 @@
-### Arthur Coelho Estevão ☕
+## Arthur Coelho Estevão ☕
 ##
 ##### 💻 Engenharia de Computação - UFES 💻
 - 🔬 Trabalhando com projeto de IC.
