@@ -53,7 +53,7 @@
   <a href="mailto:arthurcoelho442@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/arthurcoelho442/">
+  <a href="https://www.linkedin.com/in/ arthur-c-e">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="http://lattes.cnpq.br/7300562227210076">
