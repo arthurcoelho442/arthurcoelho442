@@ -3,7 +3,7 @@
 🔬 Pesquisador no CPID (Centro de Pesquisa, Inovação e Desenvolvimento - UFES)  
 ⚡ Atua com IoT, Blockchain, Eficiência Energética, Redes Neurais e Sistemas Embarcados  
 📜 Menção Honrosa no WBlockchain 2025 pelo artigo de TCC  
-🌿 Projetos: ERUS (Energia Renovável Urbana Sustentável), Eólica Inteligente  
+🌿 Projetos: ERUS (Equipe de Robôtica UFES), Eólica (UFES)  
 📈 Interesses: ML, Blockchain, Eficiência Energética e Soluções Sustentáveis  
 
 ---
